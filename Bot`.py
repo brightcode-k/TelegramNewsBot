@@ -1,6 +1,5 @@
 import telebot
 import main_updater
-bot = telebot.TeleBot("711206308:AAFgfif_YviD5mHtpt2b2IRm-XZNsByXe_c")
 # def log(message, answer):
 #     from datetime import datetime
 #     print("\n -------")
